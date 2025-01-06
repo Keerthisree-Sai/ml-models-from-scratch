@@ -50,7 +50,7 @@ OLS finds the values of m and b that minimize the residual sum of squares, thus 
    
    To get started, clone the repository to your local machine:
       
-      git clone https://github.com/your-username/your-repository-name.git
+      git clone https://github.com/Keerthisree-Sai/ml-models-from-scratch.git
    
 **2. Import the class**
 
